@@ -1,2 +1,8 @@
 # my-profile
-Website profil pertama saya
+Halo! Saya sedang belajar Github.
+
+Target saya:
+- Belajar HTML
+- Belajar CSS
+- Belajar Git
+- Belajar GitHub
